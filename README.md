@@ -1,3 +1,3 @@
-My name is Praneesh
-In 8 years old
-Im studying Grade 2
+My name is Praneesh.
+I'm 8 years old.
+I'm studying Grade 2.
